@@ -1,4 +1,5 @@
 ## Git Cheat Sheet
+This is a brief reference for all the git commands.
 
 * `git init` - Initialize a local git repo in a working directory
 * `git branch -M main` - Change the name of my Master branch to main (only works if committed changes)
