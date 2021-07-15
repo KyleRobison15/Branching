@@ -22,3 +22,5 @@ At the end of the day, the main branch is what GitHub displays when anyone visit
 * `git branch newBranch` - Makes a new branch. ('git branch' + name of new branch you want to make)
 * `git checkout newBranch` - Switched branches. ('git checkout' + name of branch you want to switch to)
 * `git checkout -b otherBranch` - creates and switches to a new branch all at once
+
+### Pushing commits in branches
