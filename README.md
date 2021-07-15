@@ -23,4 +23,12 @@ At the end of the day, the main branch is what GitHub displays when anyone visit
 * `git checkout newBranch` - Switched branches. ('git checkout' + name of branch you want to switch to)
 * `git checkout -b otherBranch` - creates and switches to a new branch all at once
 
+### Remote Repos
+* `git remote add alias url` - add alias `alias` as name for remote repo `url` in
+project configuration
+* `git push alias aBranch` - push local commits to remote repo `alias`'s branch' `aBranch`
+* `git pull alias aBranch` - pull remote `aBranch` from `alias` into current local branch
+
+
 ### Pushing commits in branches
+* Merge conflicts occur when:
