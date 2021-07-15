@@ -10,7 +10,8 @@ This is a brief reference for all the git commands.
 * `git log` - List commit history (gives you a shaw number)
 * `git log --oneline` - Compact commit history (displays that commit's shaw number condensed)
 * `git checkout *******` - Will move the HEAD to the commit you referenced
-
+* `git diff sha` - Show diffs between current commit and commit id `sha`
+* `git diff oneBranch otherBranch` - Show diffs between `oneBranch` and `other branch`
 
 ### Branching
 The purpose of branching in GitHub is to isolate development work without affecting other branches in the repository.
