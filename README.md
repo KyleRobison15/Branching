@@ -12,6 +12,11 @@
 
 
 ### Branching
+The purpose of branching in GitHub is to isolate development work without affecting other branches in the repository.
+So when we want to work on one specific feature or topic of our program, we can create a branch for that.
+Then we can make all the changes we want to that specific part of the program and validate those changes before pulling to the main branch.
+At the end of the day, the main branch is what GitHub displays when anyone visits the repository.
+
 * `git branch` List branches. Shows the current branch with a splat
 * `git branch newBranch` - Makes a new branch. ('git branch' + name of new branch you want to make)
 * `git checkout newBranch` - Switched branches. ('git checkout' + name of branch you want to switch to)
