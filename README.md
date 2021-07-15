@@ -10,5 +10,5 @@
 
 ### Branching
 * `git branch` List branches. Shows the current branch with a splat
-* `git branch nameOfBranch` - Makes a new branch. ('git branch' + name of new branch you want to make)
+* `git branch newBranch` - Makes a new branch. ('git branch' + name of new branch you want to make)
 * `git checkout newBranch` - Switched branches. ('git checkout' + name of branch you want to switch to)
